@@ -26,7 +26,7 @@ To run this project, follow these steps:
 
 ### Clone this repository:
 ```sh
-git clone https://github.com/yourusername/LiverPatientPrediction.git
+git clone https://github.com/Tejalkhadke/LiverPatientPrediction.git
 cd LiverPatientPrediction
 ```
 
@@ -60,4 +60,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or inquiries, please reach out to your_email@example.com.
+For any questions or inquiries, please reach out to tejalkhadke190@gmail.com
